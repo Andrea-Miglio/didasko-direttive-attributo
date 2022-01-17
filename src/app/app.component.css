@@ -1,3 +1,15 @@
-p {
-  font-family: Lato;
+.uno {
+  color:blue;
 }
+.due {
+  font-size: 30px;
+}
+.tre {
+  font-family:times;
+}
+.quattro {
+  color:red;
+} 
+.margine-sinistro{
+  margin-left:5px;
+} 
